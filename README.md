@@ -1,0 +1,2 @@
+# pythonScript
+python bot test
